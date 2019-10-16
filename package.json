@@ -1,0 +1,14 @@
+{
+  "name": "axon_subscriber",
+  "version": "1.0.0",
+  "description": "Subscribes a cloud healthcare notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rithesh D'cruz",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^1.1.2"
+  }
+}
